@@ -27,7 +27,7 @@
 
 [![Product Name Screen Shot][product-screenshot]]
 
-This was a fun little personal project. Used as a introduction to incorporating simple algorithms into code. inspired by The Coding Train.
+This was a fun little personal project. inspired by The Coding Train.
 
 Live Version: [https://dylansloann.github.io/Maze-Gen-Solver/](https://dylansloann.github.io/Maze-Gen-Solver/)
 
