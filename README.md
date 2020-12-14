@@ -32,7 +32,7 @@ This was a fun little personal project. inspired by The Coding Train.
 Live Version: [https://dylansloann.github.io/Maze-Gen-Solver/](https://dylansloann.github.io/Maze-Gen-Solver/)
 
 ### Features
-* Utilizes Depth-first search "Recusive backtracking" for both generation and solving.
+* Utilizes Depth-first search "Recusive backtracking" for both generation and solving. 
 * Takes form of pacman theme as pacman performing generation and ghost finding path.
 * Utilizes P5.js library
 
