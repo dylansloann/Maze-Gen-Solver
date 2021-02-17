@@ -32,7 +32,7 @@ This was a fun little personal project. inspired by The Coding Train.
 Live Version: [https://dylansloann.github.io/Maze-Gen-Solver/](https://dylansloann.github.io/Maze-Gen-Solver/)
 
 ### Features
-* Utilizes Depth-first search "Recusive backtracking" for both generation and solving. 
+* Utilizes Depth-first search for both generation and solving. 
 * Takes form of pacman theme as pacman performing generation and ghost finding path.
 * Utilizes P5.js library
 
@@ -47,7 +47,7 @@ This includes the main languages/modules that were used.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Info on if you want to give the software a shot.
+Info on if you want to give it a shot.
 
 ### Running/Installation
 
@@ -57,22 +57,7 @@ To test out program follow steps
 ```sh
 git clone https://github.com/dylansloann/Maze-Gen-Solver
 ```
-2. Extract Files
-
-3. Run index.html on live server
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are **greatly appreciated**. Would love to take this software even further.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/coolfeature`)
-3. Commit your Changes (`git commit -m 'Add a feature'`)
-4. Push to the Branch (`git push origin feature/coolfeature`)
-5. Open a Pull Request
-
+2. Run index.html on live server
 
 
 <!-- CONTACT -->
