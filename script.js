@@ -43,7 +43,7 @@ function setup() {
 			maze_grid.push(unit);
 		}
 	}
-	
+
 	// sets up first position for both generation and path finding
 	current_unit = maze_grid[0];
 	path_iteration = maze_grid[0];
